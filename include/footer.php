@@ -1,0 +1,1 @@
+<footer><p class="copyright">&copy 2016. All rights reserve by KU CSE </p></footer>
